@@ -1,3 +1,3 @@
-# Portpholio
--- 
-This is my personl portpholio 
+# Portholio
+---
+This is my personl portfolio 
